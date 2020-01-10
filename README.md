@@ -1,4 +1,4 @@
 Really Cheap Chatbot
 ---------------------
 
-[![sloc](https://sloc.xyz/)](https://sloc.xyz/)
+[![Scc Count Badge](https://sloc.xyz/github/boyter/really-cheap-chatbot/)](https://github.com/boyter/really-cheap-chatbot/)
